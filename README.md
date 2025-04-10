@@ -14,7 +14,8 @@
 ### 一键部署
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Ten-o/api_gateway_worker)
-
+禁止亚太地区
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Ten-o/api_gateway_worker/tree/exclude-asia-pacific)
 1. 点击上方按钮
 2. 登录你的 Cloudflare 账号
 3. 等待自动部署完成

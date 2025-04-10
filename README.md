@@ -12,11 +12,10 @@
 ## 🚀 快速开始
 
 ### 一键部署
-下方链接，即可一键部署 API Gateway Worker 到 Cloudflare：
 **部署到 Cloudflare Workers:** 点击下方按钮，开始部署流程：
-    [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Ten-o/api_gateway_worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Ten-o/api_gateway_worker)
 **（可选）禁止亚太地区访问:** 如果您需要禁止亚太地区的用户访问您的 API Gateway，请点击下方按钮：
-    [![Deploy to Cloudflare Workers (Exclude Asia Pacific)](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Ten-o/api_gateway_worker/tree/exclude-asia-pacific)
+[![Deploy to Cloudflare Workers (Exclude Asia Pacific)](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Ten-o/api_gateway_worker/tree/exclude-asia-pacific)
 
 1. 点击上方按钮
 2. 登录你的 Cloudflare 账号
